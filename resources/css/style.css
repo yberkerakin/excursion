@@ -1,43 +1,35 @@
 .header{
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 body{
+    font-family: Verdana;
     background-color: black;
     text-align: center;
 }
 
-.linkup{
-    width: 100%;
-}
 
-.phone{
-    margin: 0 auto;
-    position: relative;
-}
 
-h1{
-    font-family: Verdana;
+h2{
     color: white;
-    text-align: center;
 }
 
-p{
+h4{
     font-family: Verdana;
     font-size: 21px;
     color: gray;
-    text-align: center;
+    
 }
+
+
 
 .copyright{
     text-align: right;
 }
 
-a{
+p a{
     color: aquamarine;
     font-size: 16px;
 }
